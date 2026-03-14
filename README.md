@@ -22,6 +22,10 @@ The GitHub action will automatically fetch the digital netlist from Wokwi and bu
 
 ## Resources
 
+
+the links  used:  https://wokwi.com/projects/458492811913734145
+
+
 - [FAQ](https://tinytapeout.com/faq/)
 - [Digital design lessons](https://tinytapeout.com/digital_design/)
 - [Learn how semiconductors work](https://tinytapeout.com/siliwiz/)
