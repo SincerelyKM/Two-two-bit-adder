@@ -14,5 +14,5 @@ This is a two two bit adder
 ## How to test
 Just go into info.yaml
 ## External hardware
-
+We used wowki
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
